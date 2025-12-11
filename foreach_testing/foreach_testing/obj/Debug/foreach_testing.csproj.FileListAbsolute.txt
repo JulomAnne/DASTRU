@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Downloads\foreach_testing\foreach_testing\bin\Debug\foreach_testing.exe.config
+C:\Users\ACT-STUDENT\Downloads\foreach_testing\foreach_testing\bin\Debug\foreach_testing.exe
+C:\Users\ACT-STUDENT\Downloads\foreach_testing\foreach_testing\bin\Debug\foreach_testing.pdb
+C:\Users\ACT-STUDENT\Downloads\foreach_testing\foreach_testing\obj\Debug\foreach_testing.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Downloads\foreach_testing\foreach_testing\obj\Debug\foreach_testing.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Downloads\foreach_testing\foreach_testing\obj\Debug\foreach_testing.exe
+C:\Users\ACT-STUDENT\Downloads\foreach_testing\foreach_testing\obj\Debug\foreach_testing.pdb
