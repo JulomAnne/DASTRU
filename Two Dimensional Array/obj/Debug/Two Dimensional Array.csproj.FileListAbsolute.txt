@@ -1,8 +1,0 @@
-C:\Users\ACT-STUDENT\Downloads\Two Dimensional Array\bin\Debug\Single Dimensional Array.exe.config
-C:\Users\ACT-STUDENT\Downloads\Two Dimensional Array\bin\Debug\Single Dimensional Array.exe
-C:\Users\ACT-STUDENT\Downloads\Two Dimensional Array\bin\Debug\Single Dimensional Array.pdb
-C:\Users\ACT-STUDENT\Downloads\Two Dimensional Array\obj\Debug\Two Dimensional Array.csproj.AssemblyReference.cache
-C:\Users\ACT-STUDENT\Downloads\Two Dimensional Array\obj\Debug\Single Dimensional Array.exe.config
-C:\Users\ACT-STUDENT\Downloads\Two Dimensional Array\obj\Debug\Two Dimensional Array.csproj.CoreCompileInputs.cache
-C:\Users\ACT-STUDENT\Downloads\Two Dimensional Array\obj\Debug\Single Dimensional Array.exe
-C:\Users\ACT-STUDENT\Downloads\Two Dimensional Array\obj\Debug\Single Dimensional Array.pdb
