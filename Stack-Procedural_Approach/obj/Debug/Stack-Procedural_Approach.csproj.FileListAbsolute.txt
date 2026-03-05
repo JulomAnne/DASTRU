@@ -1,0 +1,15 @@
+C:\Users\ACT-STUDENT\Downloads\Stack-Procedural_Approach\bin\Debug\Stack-Procedural_Approach.exe.config
+C:\Users\ACT-STUDENT\Downloads\Stack-Procedural_Approach\bin\Debug\Stack-Procedural_Approach.exe
+C:\Users\ACT-STUDENT\Downloads\Stack-Procedural_Approach\bin\Debug\Stack-Procedural_Approach.pdb
+C:\Users\ACT-STUDENT\Downloads\Stack-Procedural_Approach\obj\Debug\Stack-Procedural_Approach.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Downloads\Stack-Procedural_Approach\obj\Debug\Stack-Procedural_Approach.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Downloads\Stack-Procedural_Approach\obj\Debug\Stack-Procedural_Approach.exe
+C:\Users\ACT-STUDENT\Downloads\Stack-Procedural_Approach\obj\Debug\Stack-Procedural_Approach.pdb
+C:\Users\ACT-STUDENT\Downloads\Stack-Procedural_Approach\obj\Debug\Stack-Procedural_Approach.exe.config
+C:\Users\Lenovo\Downloads\Stack-Procedural_Approach\bin\Debug\Stack-Procedural_Approach.exe.config
+C:\Users\Lenovo\Downloads\Stack-Procedural_Approach\bin\Debug\Stack-Procedural_Approach.exe
+C:\Users\Lenovo\Downloads\Stack-Procedural_Approach\bin\Debug\Stack-Procedural_Approach.pdb
+C:\Users\Lenovo\Downloads\Stack-Procedural_Approach\obj\Debug\Stack-Procedural_Approach.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Stack-Procedural_Approach\obj\Debug\Stack-Procedural_Approach.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Stack-Procedural_Approach\obj\Debug\Stack-Procedural_Approach.exe
+C:\Users\Lenovo\Downloads\Stack-Procedural_Approach\obj\Debug\Stack-Procedural_Approach.pdb
